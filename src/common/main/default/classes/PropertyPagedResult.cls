@@ -12,5 +12,5 @@ public class PropertyPagedResult {
     
     @AuraEnabled
     public List<Property__c> properties { get;set; }
-    
+    //change 3
 }
