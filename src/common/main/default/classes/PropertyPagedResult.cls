@@ -1,6 +1,6 @@
 // PropertyPagedResult is used for relaying property information
 public class PropertyPagedResult {
-    
+     
     @AuraEnabled
     public Integer pageSize { get;set; }
     
